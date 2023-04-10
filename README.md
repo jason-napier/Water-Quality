@@ -62,8 +62,11 @@
 
 ## Contributors
 	# Megan Flinders
-    # Kaitlynn Nguyen
-    # Jason L. Napier
+		#Research, Slides Presentation
+	# Kaitlynn Nguyen
+		#Research, Slides Presentation
+	# Jason L. Napier
+		#Research, Jupyter Notebook Files
 
 
 
