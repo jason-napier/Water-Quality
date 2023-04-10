@@ -10,7 +10,7 @@
 	
     #The files used to perform analysis are in jupyter notebook format using python. The following libraries are used: pandas, matplotlib.pyplot, scipy.stats, numpy, hvplot.pandas, and us.
 
-##Conclusion
+## Conclusion
     #There tended to be higher contamination levels in states with higher unemployment and poverty rates.
     #In states with higher percentages of adults with less than a high school education, there tended to be higher contamination levels in their community water systems.
     #It is observed that Pacific Coast states consistently have higher levels of contamination of all 3 pollutants in their community water systems than Atlantic Coast and Non-Coastal states.
