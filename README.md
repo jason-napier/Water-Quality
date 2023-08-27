@@ -31,7 +31,7 @@
 	#analysis.ipynb
 	    #This file loads data from complete_dataframe_2020.csv. This data is used to perform analysis. It exports findings into the “Output” folder.
 
-    # complete_dataframe_2020.csc
+    #complete_dataframe_2020.csc
 	    #This is an output file from EDA.ipynb. It is loaded into analysis.ipynb to perform statistical analysis. It contains data separated by the year 2020.
 
     #complete_dataframe_2020.xlsx
@@ -63,10 +63,11 @@
 ## Contributors
 	# Megan Flinders
 		#Research, Slides Presentation
+  	# Jason L. Napier
+		#Research, Jupyter Notebook Files
 	# Kaitlynn Nguyen
 		#Research, Slides Presentation
-	# Jason L. Napier
-		#Research, Jupyter Notebook Files
+
 
 
 
